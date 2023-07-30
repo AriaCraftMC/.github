@@ -1,5 +1,5 @@
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
-<h1 align="center">嘿，这是AriaCraft的开源站 👋</h1>
+<h1 align="center">嘿，这是AriaCraft的开原站 👋</h1>
 
 <p align="center">这里的成员大部分都是学生党，所以欢迎每一个人热爱游戏和编程的人加入😄。</p>
 
